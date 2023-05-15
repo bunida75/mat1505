@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\mdt1505\bin\Debug\net6.0\mdt1505.exe
+C:\Users\Administrator\Desktop\mdt1505\bin\Debug\net6.0\mdt1505.deps.json
+C:\Users\Administrator\Desktop\mdt1505\bin\Debug\net6.0\mdt1505.runtimeconfig.json
+C:\Users\Administrator\Desktop\mdt1505\bin\Debug\net6.0\mdt1505.dll
+C:\Users\Administrator\Desktop\mdt1505\bin\Debug\net6.0\mdt1505.pdb
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.dll
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\refint\mdt1505.dll
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.pdb
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\mdt1505.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\mdt1505\obj\Debug\net6.0\ref\mdt1505.dll
